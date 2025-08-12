@@ -10,6 +10,7 @@ Structure of a CMS project
 ## Config
 
 ## Header
-- Active section
+- Nav active section option `is--active`
 - Menu mobile
+- Add class name `js-html` and `js-body`
 
