@@ -9,3 +9,7 @@ Structure of a CMS project
 
 ## Config
 
+## Header
+- Active section
+- Menu mobile
+
