@@ -1,4 +1,4 @@
-# Structure Web project
+# Structure Web Project
 Structure of a CMS project
 
 ## Architecture
